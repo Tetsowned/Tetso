@@ -586,3 +586,8 @@ all for the love of you.</tt>"}
 	icon_state = "sbook"
 	file_path = "strings/books/three_sentence_horror.txt"
 
+/obj/item/paper/book/from_file/nutcracker/diary
+	name = "Dee's Diary"
+	desc = "A diary belonging to a person named Dee. It has peanut butter as a bookmark. Gross."
+	icon_state = "sbook"
+	file_path = "strings/books/dees_diary.txt"

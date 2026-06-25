@@ -23,6 +23,13 @@
 #define MAINTENANCE "#e5ff32"
 #define COMMAND "#00783c"
 
+/// Nutcracker colors
+#define GREEN "#00ff2a"
+#define ORANGE "#ffae00"
+#define RED "#ff0000"
+#define BLUE "#0000ff"
+#define PURPLE "#800080"
+
 //////////// Security ////
 /obj/mapping_helper/access/security
 	name = "security access spawn"
@@ -341,6 +348,38 @@
 	name = "lunar breakdoor access spawn"
 	req_access = list(access_lunar_breakdoor)
 	color = ENGINEERING
+
+////////////////nutfactory access///////
+
+/obj/mapping_helper/access/factorymaint
+	name = "nutcracker maint access spawn"
+	req_access = list(access_nutcracker_maint)
+	color = MAINTENANCE
+
+/obj/mapping_helper/access/factorytour
+	name = "nutcracker tour access spawn"
+	req_access = list(access_nutcracker_tour)
+	color = MORGUE_BLACK
+
+/obj/mapping_helper/access/factoryorange
+	name = "nutcracker orange access spawn"
+	req_access = list(access_nutcracker_orange)
+	color = ORANGE
+
+/obj/mapping_helper/access/factoryred
+	name = "nutcracker red access spawn"
+	req_access = list(access_nutcracker_red)
+	color = RED
+
+/obj/mapping_helper/access/factoryred
+	name = "nutcracker red access spawn"
+	req_access = list(access_nutcracker_red)
+	color = RED
+
+/obj/mapping_helper/access/factoryblue
+	name = "nutcracker blue access spawn"
+	req_access = list(access_nutcracker_blue)
+	color = BLUE
 
 #undef MEDICAL
 #undef SECURITY

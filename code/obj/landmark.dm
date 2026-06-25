@@ -562,6 +562,9 @@ var/global/list/job_start_locations = list()
 /obj/landmark/lrt/watchfuleye
 	name = "Watchful-Eye Sensor"
 
+/obj/landmark/lrt/nutcracker
+	name = "Nutcracker Factory"
+
 /obj/landmark/icemoon_medal
 	deleted_on_start = FALSE
 	add_to_landmarks = FALSE

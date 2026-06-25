@@ -43572,6 +43572,10 @@
 /obj/mapping_helper/wingrille_spawn/auto,
 /turf/simulated/floor/plating,
 /area/station/quartermaster/office)
+"iKP" = (
+/obj/noticeboard/persistent/chapel/directional/north,
+/turf/simulated/wall/auto/supernorn,
+/area/station/chapel/sanctuary)
 "iLY" = (
 /obj/machinery/firealarm/directional/south,
 /turf/simulated/floor/carpet{
@@ -119353,7 +119357,7 @@ sQL
 xQB
 inc
 aIC
-aGo
+iKP
 hfp
 oQT
 aNq

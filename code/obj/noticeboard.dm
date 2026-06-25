@@ -295,3 +295,9 @@ SET_UP_DIRECTIONALS(/obj/noticeboard/persistent/wizard, OFFSETS_NOTICEBOARD)
 	persistent_id = "conspiracy"
 
 SET_UP_DIRECTIONALS(/obj/noticeboard/persistent/conspiracy, OFFSETS_NOTICEBOARD)
+
+/obj/noticeboard/persistent/factory
+	name = "Factory persistent notice board"
+	persistent_id = "factory"
+
+SET_UP_DIRECTIONALS(/obj/noticeboard/persistent/factory, OFFSETS_NOTICEBOARD)

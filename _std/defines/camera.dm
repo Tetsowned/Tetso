@@ -38,4 +38,6 @@
 /// Cargo routing cameras
 #define CAMERA_NETWORK_CARGO	"cargo"
 /// AI-only cameras
-#define CAMERA_NETWORK_AI_ONLY	"ai"
+#define CAMERA_NETWORK_AI_ONLY  "ai"
+/// Nutcracker cameras
+#define CAMERA_NETWORK_NUTCRACKER  "factory"

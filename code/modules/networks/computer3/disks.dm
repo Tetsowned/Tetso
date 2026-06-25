@@ -196,6 +196,10 @@
 		name = "galactic coordinate disk - 'Derelict Station'"
 		target_name = "Derelict Station"
 
+	nutcracker
+		name = "galactic coordinate disk - 'Nutcracker Factory'"
+		target_name = "Nutcracker Factory"
+
 
 /obj/item/disk/data/fixed_disk
 	name = "Storage Drive"

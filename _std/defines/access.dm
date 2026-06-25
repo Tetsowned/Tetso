@@ -126,3 +126,12 @@
 
 //Lunar door access, given to the tour guide to open the door
 #define access_lunar_breakdoor 90
+
+//Nutcracker Factory access
+#define access_nutcracker_maint 91
+#define access_nutcracker_factory 92
+#define access_nutcracker_tour 93
+#define access_nutcracker_orange 94
+#define access_nutcracker_red 95
+#define access_nutcracker_blue 96
+#define access_nutcracker_purple 97

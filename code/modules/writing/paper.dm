@@ -519,7 +519,7 @@
 	name = "Printed Image"
 	desc = "Fancy."
 	var/print_icon = 'icons/effects/sstv.dmi'
-	var/print_icon_state = "sstv_1"
+	var/print_icon_state = "factory_cctv1"
 	sizex = 640 + 0
 	sizey = 480 + 32
 	scrollbar = FALSE
@@ -576,6 +576,25 @@
 	crewlog2
 		print_icon_state = "sstv_13"
 		desc = "Oh god."
+//// NUT CRACKER IMAGES !!! BITE OF 47!!!
+/obj/item/paper/printout/factory
+	name = "Printed Image"
+	desc = "Fancy. Smells like peanuts."
+	print_icon = 'icons/effects/sstv.dmi'
+	print_icon_state = "sstv_1"
+	sizex = 640 + 0
+	sizey = 480 + 32
+	scrollbar = FALSE
+
+	New()
+		..()
+		src.info = "<img style='width: 100%; position: absolute; top: 0; left: 0' src='data:image/png;base64,[icon2base64(icon(print_icon,print_icon_state))]'>"
+		return
+
+	equipment
+		print_icon_state = "equipment"
+		desc = "Photo of a nutcracking factories equipment."
+
 
 /obj/item/paper_bin
 	name = "paper bin"

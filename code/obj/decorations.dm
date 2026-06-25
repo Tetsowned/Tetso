@@ -721,7 +721,7 @@ TYPEINFO(/obj/shrub/syndicateplant)
 			icon_state = "blindsH-M-c"
 			base_state = "blindsH-M"
 		right
-			icon_state = "blindsH-R-o"
+			icon_state = "blindsH-R-c"
 			base_state = "blindsH-R"
 
 	vertical
@@ -773,13 +773,13 @@ TYPEINFO(/obj/shrub/syndicateplant)
 			icon_state = "blindsV-c"
 
 			left
-				icon_state = "blinds_cog2-L-o"
+				icon_state = "blinds_cog2-L-c"
 				base_state = "blinds_cog2-L"
 			middle
-				icon_state = "blinds_cog2-M-o"
+				icon_state = "blinds_cog2-M-c"
 				base_state = "blinds_cog2-M"
 			right
-				icon_state = "blinds_cog2-R-o"
+				icon_state = "blinds_cog2-R-c"
 				base_state = "blinds_cog2-R"
 
 /obj/blind_switch

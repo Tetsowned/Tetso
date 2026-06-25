@@ -1,0 +1,15 @@
+<p>My Diary</p>
+
+<h1 id="stupidjob">Day 7:</h1>
+<p><strong>I hate it here. It smells like peanut butter, why do they only crack peanuts at a nutcracker factory? Why not walnuts?</p>
+<p><strong>I wanna go back to my real job, Dee's Nuts, Stupid nutcracker factory sending us out of business, It's insane.</p>
+
+<h1 id="walnutsearch">Day 13:</h1>
+<p><strong>I don't know if what i'm looking for is even real. They sent me out here to find the "Uncrackable nut" but all i've done is repair shit thanks to my stupid unpaid internship! I can't do any real work!</p>
+<p><strong>Well. I'm gonna try to get a factory worker to let me into the backrooms, Maybe I'll see something!</p>
+
+<h1 id="walnutfound">Day 16:</h1>
+<p>It's real. I can't believe it. I saw it with my own eyes.. It was behind all kinds of security measurements, but i saw it! The Uncrackable nut! Radiating with light, It even spoke to me..</p>
+
+<h1 id="walnutdeath">Day 20:</h1>
+<p>I feel so weak. I can't leave the uncrackable nut, Anytime I think about leaving, I zone out and find myself staring back at it. I'm so hungry, I've tried eating it, but I can't crack it open!</p>

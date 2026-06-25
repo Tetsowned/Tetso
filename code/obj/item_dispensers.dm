@@ -7,7 +7,7 @@
 	desc = "A storage container that easily dispenses items."
 	icon = 'icons/obj/stationobjs.dmi'
 	icon_state = "dispenser_handcuffs"
-	pixel_y = 28
+
 	anchored = ANCHORED
 	var/filled_icon_state = "" 		//i tried to do this in a smart way but it was a PITA so here have this stinky code instead
 	var/empty_icon_state = "" 		//autoset by the s y s t e m, dont set this yourself
